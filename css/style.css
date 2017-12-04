@@ -401,6 +401,7 @@ p {
 }
 .fh5co-post-entry article a img {
   opacity: 1;
+  border-radius: 8px;    
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
