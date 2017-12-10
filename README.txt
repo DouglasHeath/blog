@@ -1,6 +1,6 @@
 
-TITLE: 
-Magazine - Blog Free Responsive HTML5 template
+This is a blog put up by me but using the free template found as part of FREEMHTML5's plethora of webpages. Check them out! 
+I've left the oblitory thanks and credits here, as well as sprinkled throughout the pages themselves.
 
 AUTHOR:
 DESIGNED & DEVELOPED by FREEHTML5.co
